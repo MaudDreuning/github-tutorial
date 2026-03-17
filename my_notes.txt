@@ -1,3 +1,9 @@
 my_answers
+<<<<<<< HEAD
 
 hoihoi
+=======
+Ik ga wat type
+Want ik moet wat lines toevoegen
+Fun
+>>>>>>> e0cc5166b80ab4448e6edab291343023e4b5580d
